@@ -12,6 +12,9 @@ For this project, I employed public dataset available [here](https://www.kaggle.
     Evaluation of Model
    
 # File Description
+    data/True.csv           #Dataset containing real news articles
+    data/Fake.csv           #Dataset containing fake news articles
+    classification.pynb     # classification model py notebook
 
 # Licenses
-The blog for the same project can be found here 
+The blog for the same project can be found [here](https://medium.com/@vivekmehendiratta/prediction-of-fake-news-articles-8f2789ff9720) 
